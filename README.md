@@ -16,5 +16,7 @@ codes     Python, C++
 ### tools/
 
 ```text
-Python  C++  FastAPI  JavaScript  HTML/CSS  PostgreSQL  Pytest
+Python  C++  FastAPI
+JavaScript  HTML/CSS
+PostgreSQL  Pytest
 ```
