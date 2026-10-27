@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="Priyanshu Sharma - photos, poems, code. Pixel-art night skyline with a small cat looking at the moon." width="100%">
+<img src="banner.svg?v=tagline-clicks-writes-codes" alt="Priyanshu Sharma - Clicks, writes, codes. Pixel-art night skyline with a small cat looking at the moon." width="100%">
 
 <img src="terminal-mac.svg" alt="Terminal window: whoami, ls ~/interests (poetry, photos, beats, sketches), cat status: learning in public" width="560">
 
