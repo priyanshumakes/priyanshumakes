@@ -1,12 +1,6 @@
 <img src="banner.svg" alt="Priyanshu Sharma - photos, poems, code. Pixel-art night skyline with a small cat looking at the moon." width="100%">
 
-```text
-name      Priyanshu Sharma
-writes    poetry (Urdu, English)
-shoots    animals, nature, moments
-makes     a beat, the odd sketch
-codes     Python, C++
-```
+<img src="terminal.svg" alt="Terminal window: whoami, ls ~/interests (poetry, photos, beats, sketches), cat status: learning in public" width="100%">
 
 ### projects/
 
