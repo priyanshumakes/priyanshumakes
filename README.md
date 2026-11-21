@@ -9,4 +9,6 @@
 
 <h3><img src="2-tools.svg" alt="tools/" height="21"></h3>
 
-<img src="3-tools-panel.svg" alt="Tools: Python, C++, FastAPI, JavaScript, HTML/CSS, PostgreSQL, Pytest" width="400">
+<img src="tools-panel-icons.svg" alt="Tools: Python, C++, FastAPI, JavaScript, HTML, CSS, PostgreSQL, Pytest" width="400">
+
+<img src="cat-graph.svg" alt="Contribution graph with a pixel cat walking across" width="100%">
